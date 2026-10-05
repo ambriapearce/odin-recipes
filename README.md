@@ -11,5 +11,5 @@ This project is an example that was built following The Odin Project HTML Founda
 * Add images.
 
 ## Follow the same tutorial!
-<a href = https://www.theodinproject.com/lessons/foundations-recipes alt = "A link to The Odin Project tutorial">The Odin Project: Recipes</a>
+<a href = https://www.theodinproject.com/lessons/foundations-recipes target = "_blank" rel = "noreferrer" alt = "A link to The Odin Project tutorial">The Odin Project: Recipes</a>
 
